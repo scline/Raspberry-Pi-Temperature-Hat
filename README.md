@@ -1,5 +1,6 @@
 # Raspberry-Pi Temperature Sensor Hat
 This repo is to track and update the progress of a custom PCB application to use with the Raspberry Pi system. The purpose is to attach multiple temperature sensors to create a wi-fi based monitor.
+<img src="https://github.com/scline/Raspberry-Pi-Temperature-Hat/blob/master/Pi_Temp_v1.0/pictures/complete.PNG?raw=true" width="600">
 
 ## Change Log
 v1.0 - Initial board release for Raspberry Pi 2 / A+ models
@@ -28,7 +29,3 @@ Below is the 2D versions of this board rendered by Eagle software.
 
 <img src="https://github.com/scline/Raspberry-Pi-Temperature-Hat/blob/master/Pi_Temp_v1.0/eagleUp/eagleUp_RasPi-BplusHAT_board_top.png?raw=true" width="450">
 <img src="https://github.com/scline/Raspberry-Pi-Temperature-Hat/blob/master/Pi_Temp_v1.0/eagleUp/eagleUp_RasPi-BplusHAT_board_bottom.png?raw=true" width="450">
-
-Here is the board when all the devices are soldered on:
-
-<img src="https://github.com/scline/Raspberry-Pi-Temperature-Hat/blob/master/Pi_Temp_v1.0/pictures/complete.PNG?raw=true" width="600">
